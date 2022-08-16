@@ -3,7 +3,7 @@ body {
     color: #34720b;
   }
   .jumbotron {
-    background-image: url("../../images/bellies.jpeg");
+    background-image: url("../../static/images/bellies.jpeg");
     background-size: 100% 100%;
     text-align: center;
   }
